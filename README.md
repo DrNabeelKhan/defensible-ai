@@ -46,7 +46,7 @@ licence, and indicate if changes were made.
 
 Attribution should name the author, the work, and its DOI:
 
-> Khan, N. (2026). *The MESA Framework: A Four-Altitude Diagnostic Model for
+> Khan, N. A. (2026). *The MESA Framework: A Four-Altitude Diagnostic Model for
 > Institutional AI Governance.* Zenodo. https://doi.org/10.5281/zenodo.22109836
 > Licensed CC BY 4.0.
 
