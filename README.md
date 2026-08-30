@@ -36,7 +36,9 @@ published here and made callable over MCP at
 [mcp.nabeelkhan.com/api/mcp](https://mcp.nabeelkhan.com/api/mcp), which serves
 the contents of these specifications to an agent without a key.
 
-## Licence
+## Copyright and licence
+
+**© 2026 Nabeel A. Khan.** All rights reserved except as granted below.
 
 All works in this repository are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The full legal code
@@ -53,11 +55,20 @@ Attribution should name the author, the work, and its DOI:
 > Institutional AI Governance.* Zenodo. https://doi.org/10.5281/zenodo.22109836
 > Licensed CC BY 4.0.
 
-**What the licence does not cover.** Trademarks are not licensed. Several
-framework names are claimed as marks and are marked as such in their
-specifications; the CC BY grant covers the text and figures, not the names.
-Where a specification states that a name is deliberately unmarked, that name is
-offered for use without restriction beyond attribution.
+**What the licence does not cover.** Trademarks are not licensed. The
+following are trademarks of the author and iSystematic Inc., and the CC BY
+grant conveys no rights in them: **MESA Framework**, **MESA MRM Framework**,
+**AI Data Governance Framework**, **AI Vendor Risk Framework (AVRF)**,
+**AI Incident Response Protocol (AIRP)**, **Five-Gate Deployment Model**,
+**Sharia AI Compliance Framework (SACF)** and
+**Cross-Border AI Architecture Patterns**. No registered-mark symbol is used,
+because no registration has issued.
+
+**PEVG**, **PARA**, the **AI Governance Operating Model**, the **Boundary
+Invariant** and the **BOE Declaration** are deliberately unmarked. That is a
+decision rather than an omission: they are offered for use, teaching,
+assessment, extension and criticism by anyone, with attribution and nothing
+more. Each specification states this in its own terms.
 
 **These are specifications, not certification schemes.** No conformity
 assessment, endorsement, or accreditation is offered or implied by any document
