@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Defensible AI: eight specifications for governed production AI" width="880">
+  <img src="assets/banner-light.svg" alt="Defensible AI: thirteen specifications for governed production AI" width="880">
 </picture>
 
-**Eight specifications for governed production AI.**
+**Thirteen specifications for governed production AI.**
 
 Nabeel A. Khan · iSystematic Inc. · published to Zenodo on 30 August 2026 · CC BY 4.0
 
@@ -22,9 +22,9 @@ Nabeel A. Khan · iSystematic Inc. · published to Zenodo on 30 August 2026 · C
 
 ## Start with the Registry
 
-Eight documents is too many to choose between blind, and the corpus answers that itself. **The Defensible AI Framework Registry** is the entry point. It names every framework in the governance family, defines each one, states the thirty-one relationships between them, and records for each entry what it requires as evidence, what its limitations are, and the condition that would falsify it.
+Thirteen documents is too many to choose between blind, and the corpus answers that itself. **The Defensible AI Framework Registry** is the entry point. It names every framework in the governance family, defines each one, states the thirty-one relationships between them, and records for each entry what it requires as evidence, what its limitations are, and the condition that would falsify it.
 
-Read the Registry when you want the map. Read one of the other seven when you already know which question you are asking.
+Read the Registry when you want the map. Read one of the others when you already know which question you are asking.
 
 ### Which one do I need
 
@@ -41,18 +41,23 @@ Read the Registry when you want the map. Read one of the other seven when you al
 
 ---
 
-## The eight
+## The thirteen
 
 | Work | Version | Concept DOI | PDF |
 |---|---|---|---|
-| [A Pattern Language for Production LLM Platforms: Governed Routing, Agent Orchestration, and AI-Native Delivery](pdf/pattern-language-specification-v1.1.pdf) | 1.1 | [10.5281/zenodo.22109864](https://doi.org/10.5281/zenodo.22109864) | 2026-08-30 |
-| [The MESA Framework: A Four-Altitude Diagnostic Model for Institutional AI Governance](pdf/mesa-framework-specification-v1.1.pdf) | 1.1 | [10.5281/zenodo.22109836](https://doi.org/10.5281/zenodo.22109836) | 2026-08-30 |
-| [The Five-Gate Deployment Model: A Deployment Discipline for AI Systems](pdf/five-gate-deployment-model-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170122](https://doi.org/10.5281/zenodo.22170122) | 2026-08-30 |
-| [PEVG: Planner, Executor, Verifier, Generator. Four Contracts That Make a Failure Attributable to One Role](pdf/pevg-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170132](https://doi.org/10.5281/zenodo.22170132) | 2026-08-30 |
-| [PARA: Perception, Action, Reasoning, Adaptation. Four Faculties an Institution Can Revoke](pdf/para-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170139](https://doi.org/10.5281/zenodo.22170139) | 2026-08-30 |
-| [The Sharia AI Compliance Framework: A Dual-Authority Governance Architecture for Islamic Finance](pdf/sacf-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170143](https://doi.org/10.5281/zenodo.22170143) | 2026-08-30 |
+| [The Defensible AI Framework Registry: Definitions and Relationships for the Governed Production AI Discipline](pdf/defensible-ai-framework-registry-specification-v2.0.pdf) | 2.0 | [10.5281/zenodo.22170112](https://doi.org/10.5281/zenodo.22170112) | 2026-09-15 |
 | [AVRF: AI Vendor Risk Framework. The AI Vendor Due-Diligence Questionnaire](pdf/avrf-questionnaire-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170146](https://doi.org/10.5281/zenodo.22170146) | 2026-08-30 |
-| [The Defensible AI Framework Registry: Definitions and Relationships for the Governed Production AI Discipline](pdf/defensible-ai-framework-registry-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170112](https://doi.org/10.5281/zenodo.22170112) | 2026-08-30 |
+| [The Five-Gate Deployment Model: A Deployment Discipline for AI Systems](pdf/five-gate-deployment-model-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170122](https://doi.org/10.5281/zenodo.22170122) | 2026-08-30 |
+| [The MESA Framework: A Four-Altitude Diagnostic Model for Institutional AI Governance](pdf/mesa-framework-specification-v1.1.pdf) | 1.1 | [10.5281/zenodo.22109836](https://doi.org/10.5281/zenodo.22109836) | 2026-08-30 |
+| [PARA: Perception, Action, Reasoning, Adaptation. Four Faculties an Institution Can Revoke](pdf/para-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170139](https://doi.org/10.5281/zenodo.22170139) | 2026-08-30 |
+| [A Pattern Language for Production LLM Platforms: Governed Routing, Agent Orchestration, and AI-Native Delivery](pdf/pattern-language-specification-v1.1.pdf) | 1.1 | [10.5281/zenodo.22109864](https://doi.org/10.5281/zenodo.22109864) | 2026-08-30 |
+| [PEVG: Planner, Executor, Verifier, Generator. Four Contracts That Make a Failure Attributable to One Role](pdf/pevg-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170132](https://doi.org/10.5281/zenodo.22170132) | 2026-08-30 |
+| [The Sharia AI Compliance Framework: A Dual-Authority Governance Architecture for Islamic Finance](pdf/sacf-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22170143](https://doi.org/10.5281/zenodo.22170143) | 2026-08-30 |
+| [The AI Incident Response Protocol: Six Stages, and the Evidence a Reconstruction Requires](pdf/airp-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22285057](https://doi.org/10.5281/zenodo.22285057) | 2026-09-06 |
+| [CADRE: Charter, Authority, Decision Rights, Records, Escalation. The Governance Function Specified as Five Artifacts](pdf/cadre-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22285052](https://doi.org/10.5281/zenodo.22285052) | 2026-09-08 |
+| [The AI Data Governance Framework: A Five-Stage Control System for the Data Boundary in AI Systems](pdf/ai-data-governance-framework-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22285047](https://doi.org/10.5281/zenodo.22285047) | 2026-09-14 |
+| [Cross-Border AI Architecture Patterns: Three Patterns, and Why the Fourth Is Not a Choice](pdf/cross-border-ai-architecture-patterns-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22285049](https://doi.org/10.5281/zenodo.22285049) | 2026-09-15 |
+| [The MESA MRM Framework: A Six-Step Model Risk Management Discipline for AI Systems](pdf/mesa-mrm-framework-specification-v1.0.pdf) | 1.0 | [10.5281/zenodo.22285045](https://doi.org/10.5281/zenodo.22285045) | 2026-09-15 |
 
 Each link is the **concept DOI**, which always resolves to the latest version of that work. Cite it unless you need to pin one specific version. The table gives each record's catalogue title; a PDF carries the typeset title of the document itself.
 
@@ -118,7 +123,7 @@ The Pattern Language grades every one of its seventeen patterns on a four-level 
 
 **No pattern in the catalogue reaches E3.** Two reach E2 and fifteen are at E1. That is the single most important fact about the evidence base, and it is stated here rather than left to be inferred.
 
-The Registry uses a different field for a different purpose. It records each entry's **specification status**, because the nine frameworks are not all specified to the same depth. Four of the nine are deposited as standalone specifications and carry their own DOI. For the other five the authoritative treatment is a named book chapter, and the entry is the most complete normative statement available in citable form. A reader implementing from one of those five entries is implementing from a summary, and the status field says so rather than smoothing it over.
+The Registry uses a different field for a different purpose. It records each entry's **specification status**. At registry version 1.0 four of the nine were deposited as standalone specifications and the other five resolved to a named book chapter. **At version 2.0, published 15 September 2026, all nine carry a deposited specification with its own DOI**, so no entry reads `source-treatment` any more. The field remains, because a future entry may be added under any of its values,. Until version 2.0 an entry was, for five of the nine, the most complete normative statement available in citable form, and a reader implementing from one of those was implementing from a summary. That is no longer the case: every entry now points at the specification that governs it, and the registry governs only the framework's place in the architecture.
 
 Two limitations depend on an authority that has not acted, which is what separates them from the rest. **No Sharia Supervisory Board has reviewed or endorsed SACF.** **No trademark clearance search has been completed on the Five-Gate name.** Neither can be resolved by the author acting alone.
 
@@ -198,7 +203,7 @@ No registered-mark symbol is used on any of them, because no registration has is
 ## Repository contents
 
 ```
-pdf/            The eight specifications, each fetched from its own Zenodo record
+pdf/            The thirteen specifications, each fetched from its own Zenodo record
 assets/         Banner artwork, light and dark
 LICENSE         The CC BY 4.0 legal code
 CITATION.cff    Machine-readable citation metadata
